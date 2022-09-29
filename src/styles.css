@@ -1,0 +1,43 @@
+.App {
+  font-family: arial;
+  color: #333
+}
+
+.product-img {
+  width: 200px;
+}
+
+.product-title {
+  font-size: 14px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.product-price {
+  font-size: 10px;
+  margin: 0;
+}
+
+.product {
+
+}
+
+.carousel-div {
+  display: inline-flex;
+  gap: 10px;
+}
+
+.carousel-wrapper {
+  margin: 30px auto;
+  width: 1000px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.carousel-button {
+  display: flex;
+  align-items: center;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
